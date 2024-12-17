@@ -1,0 +1,456 @@
+2024-12-17 21:27:05,286 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 21:27:05,286 - INFO - 当前语言设置为: 中文
+2024-12-17 21:27:05,287 - INFO - 搜索参数 - 关键词: ['OpenAI', 'ChatGPT'], 引擎: Google, 结果数量: 3, 进阶模式: False
+2024-12-17 21:27:05,287 - INFO - CLIWorker 开始执行搜索任务，关键词: ['OpenAI', 'ChatGPT'], 结果数量: 3, 搜索引擎: Google
+2024-12-17 21:27:05,287 - INFO - CLIWorker 已启动。
+2024-12-17 21:27:05,287 - INFO - 发送请求到Google URL: https://www.google.com/search?q=OpenAI&num=3
+2024-12-17 21:27:05,287 - INFO - CLIWorker 开始执行搜索任务，关键词: ['OpenAI', 'ChatGPT'], 结果数量: 3, 搜索引擎: Google
+2024-12-17 21:27:05,287 - INFO - 发送请求到Google URL: https://www.google.com/search?q=OpenAI&num=3
+2024-12-17 21:27:06,528 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=OpenAI&num=3
+2024-12-17 21:27:06,552 - INFO - 解析出 1 个Google搜索结果。
+2024-12-17 21:27:06,737 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=OpenAI&num=3
+2024-12-17 21:27:06,757 - INFO - 解析出 1 个Google搜索结果。
+2024-12-17 21:27:07,766 - INFO - 检测到编码: utf_8，URL: https://openai.com/ja-JP/
+2024-12-17 21:27:07,857 - INFO - 发送请求到Google URL: https://www.google.com/search?q=ChatGPT&num=3
+2024-12-17 21:27:08,050 - INFO - 检测到编码: utf_8，URL: https://openai.com/ja-JP/
+2024-12-17 21:27:08,137 - INFO - 发送请求到Google URL: https://www.google.com/search?q=ChatGPT&num=3
+2024-12-17 21:27:09,002 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=ChatGPT&num=3
+2024-12-17 21:27:09,039 - INFO - 解析出 3 个Google搜索结果。
+2024-12-17 21:27:09,225 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=ChatGPT&num=3
+2024-12-17 21:27:09,247 - INFO - 解析出 3 个Google搜索结果。
+2024-12-17 21:27:09,895 - INFO - 检测到编码: utf_8，URL: https://openai.com/index/chatgpt/
+2024-12-17 21:27:10,063 - INFO - 检测到编码: utf_8，URL: https://openai.com/index/chatgpt/
+2024-12-17 21:27:10,415 - INFO - 检测到编码: utf_8，URL: https://chatgpt.com/
+2024-12-17 21:27:10,475 - INFO - 检测到编码: utf_8，URL: https://openai.com/ja-JP/chatgpt/overview/
+2024-12-17 21:27:10,518 - INFO - 检测到编码: utf_8，URL: https://openai.com/ja-JP/chatgpt/overview/
+2024-12-17 21:27:10,546 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:27:10,547 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:27:10,547 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 21:27:10,547 - ERROR - 搜索过程中发生错误: cannot unpack non-iterable NoneType object
+2024-12-17 21:27:10,846 - INFO - 检测到编码: utf_8，URL: https://chatgpt.com/
+2024-12-17 21:27:10,859 - INFO - 搜索任务已被用户中断，停止后续操作。
+2024-12-17 21:31:26,545 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 21:31:26,546 - INFO - 当前语言设置为: English
+2024-12-17 21:31:26,546 - INFO - 搜索参数 - 关键词: ['OpenAI', 'ChatGPT'], 引擎: Google, 结果数量: 5, 进阶模式: False
+2024-12-17 21:31:26,546 - INFO - CLIWorker 开始执行搜索任务，关键词: ['OpenAI', 'ChatGPT'], 结果数量: 5, 搜索引擎: Google
+2024-12-17 21:31:26,546 - INFO - CLIWorker 已启动。
+2024-12-17 21:31:26,546 - INFO - 发送请求到Google URL: https://www.google.com/search?q=OpenAI&num=5
+2024-12-17 21:31:26,546 - INFO - CLIWorker 开始执行搜索任务，关键词: ['OpenAI', 'ChatGPT'], 结果数量: 5, 搜索引擎: Google
+2024-12-17 21:31:26,546 - INFO - 发送请求到Google URL: https://www.google.com/search?q=OpenAI&num=5
+2024-12-17 21:31:27,860 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=OpenAI&num=5
+2024-12-17 21:31:27,887 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 21:31:28,028 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=OpenAI&num=5
+2024-12-17 21:31:28,058 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 21:31:29,004 - INFO - 检测到编码: shift_jis，URL: https://www.itmedia.co.jp/news/articles/2412/17/news111.html
+2024-12-17 21:31:29,069 - INFO - 检测到编码: utf_8，URL: https://openai.com/ja-JP/
+2024-12-17 21:31:29,161 - INFO - 发送请求到Google URL: https://www.google.com/search?q=ChatGPT&num=5
+2024-12-17 21:31:29,179 - INFO - 检测到编码: utf_8，URL: https://ja.wikipedia.org/wiki/OpenAI
+2024-12-17 21:31:29,296 - INFO - 检测到编码: utf_8，URL: https://openai.com/ja-JP/
+2024-12-17 21:31:29,383 - INFO - 发送请求到Google URL: https://www.google.com/search?q=ChatGPT&num=5
+2024-12-17 21:31:30,612 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=ChatGPT&num=5
+2024-12-17 21:31:30,653 - INFO - 解析出 5 个Google搜索结果。
+2024-12-17 21:31:30,687 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=ChatGPT&num=5
+2024-12-17 21:31:30,712 - INFO - 解析出 4 个Google搜索结果。
+2024-12-17 21:31:31,567 - INFO - 检测到编码: utf_8，URL: https://openai.com/index/chatgpt/
+2024-12-17 21:31:31,631 - INFO - 检测到编码: utf_8，URL: https://openai.com/index/chatgpt/
+2024-12-17 21:31:31,692 - INFO - 检测到编码: utf_8，URL: https://openai.com/ja-JP/chatgpt/pricing/
+2024-12-17 21:31:31,747 - INFO - 检测到编码: utf_8，URL: https://openai.com/ja-JP/chatgpt/overview/
+2024-12-17 21:31:31,961 - INFO - 检测到编码: utf_8，URL: https://chatgpt.com/
+2024-12-17 21:31:32,007 - INFO - 检测到编码: utf_8，URL: https://chatgpt.com/
+2024-12-17 21:31:32,435 - ERROR - 获取页面内容失败 (https://openai.com/ja-JP/chatgpt/overview/): 403 Client Error: Forbidden for url: https://openai.com/ja-JP/chatgpt/overview/
+2024-12-17 21:31:32,916 - INFO - 检测到编码: utf_8，URL: https://chatgpt.com/g/g-PGPnMa4Ph-ri-ben-yu-rokuin
+2024-12-17 21:31:32,921 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:31:32,922 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:31:32,922 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 21:31:36,023 - INFO - 检测到编码: utf_8，URL: https://chatgpt.com/g/g-PGPnMa4Ph-ri-ben-yu-rokuin
+2024-12-17 21:31:36,041 - INFO - 搜索任务已被用户中断，停止后续操作。
+2024-12-17 21:31:36,041 - ERROR - 搜索过程中发生错误: cannot unpack non-iterable NoneType object
+2024-12-17 21:39:13,797 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 21:39:13,797 - INFO - 当前语言设置为: English
+2024-12-17 21:39:13,797 - INFO - 搜索参数 - 关键词: ['OpenAI', 'ChatGPT'], 引擎: Google, 结果数量: 5, 进阶模式: False
+2024-12-17 21:39:13,798 - INFO - CLIWorker 开始执行搜索任务，关键词: ['OpenAI', 'ChatGPT'], 结果数量: 5, 搜索引擎: Google
+2024-12-17 21:39:13,798 - INFO - CLIWorker 已启动。
+2024-12-17 21:39:13,798 - INFO - 发送请求到Google URL: https://www.google.com/search?q=OpenAI&num=5
+2024-12-17 21:39:13,798 - INFO - CLIWorker 开始执行搜索任务，关键词: ['OpenAI', 'ChatGPT'], 结果数量: 5, 搜索引擎: Google
+2024-12-17 21:39:13,798 - INFO - 发送请求到Google URL: https://www.google.com/search?q=OpenAI&num=5
+2024-12-17 21:39:15,357 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=OpenAI&num=5
+2024-12-17 21:39:15,400 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 21:39:15,965 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=OpenAI&num=5
+2024-12-17 21:39:15,994 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 21:39:16,531 - INFO - 检测到编码: utf_8，URL: https://ja.wikipedia.org/wiki/OpenAI
+2024-12-17 21:39:16,531 - INFO - 检测到编码: utf_8，URL: https://openai.com/ja-JP/
+2024-12-17 21:39:16,710 - INFO - 发送请求到Google URL: https://www.google.com/search?q=ChatGPT&num=5
+2024-12-17 21:39:17,101 - INFO - 检测到编码: utf_8，URL: https://openai.com/ja-JP/
+2024-12-17 21:39:17,136 - INFO - 检测到编码: utf_8，URL: https://ja.wikipedia.org/wiki/OpenAI
+2024-12-17 21:39:17,285 - INFO - 发送请求到Google URL: https://www.google.com/search?q=ChatGPT&num=5
+2024-12-17 21:39:18,331 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=ChatGPT&num=5
+2024-12-17 21:39:18,377 - INFO - 解析出 4 个Google搜索结果。
+2024-12-17 21:39:18,400 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=ChatGPT&num=5
+2024-12-17 21:39:18,438 - INFO - 解析出 4 个Google搜索结果。
+2024-12-17 21:39:19,274 - INFO - 检测到编码: utf_8，URL: https://openai.com/index/chatgpt/
+2024-12-17 21:39:19,338 - INFO - 检测到编码: utf_8，URL: https://openai.com/index/chatgpt/
+2024-12-17 21:39:19,380 - INFO - 检测到编码: utf_8，URL: https://chatgpt.com/
+2024-12-17 21:39:19,407 - INFO - 检测到编码: utf_8，URL: https://openai.com/ja-JP/chatgpt/overview/
+2024-12-17 21:39:19,479 - INFO - 检测到编码: utf_8，URL: https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=ja
+2024-12-17 21:39:19,508 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:39:19,512 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:39:19,512 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 21:39:19,512 - ERROR - 搜索过程中发生错误: cannot unpack non-iterable NoneType object
+2024-12-17 21:39:19,513 - INFO - 检测到编码: utf_8，URL: https://openai.com/ja-JP/chatgpt/overview/
+2024-12-17 21:39:19,846 - INFO - 检测到编码: utf_8，URL: https://chatgpt.com/
+2024-12-17 21:39:21,374 - INFO - 检测到编码: utf_8，URL: https://chatgpt.com/g/g-PGPnMa4Ph-ri-ben-yu-rokuin
+2024-12-17 21:39:21,383 - INFO - 搜索任务已被用户中断，停止后续操作。
+2024-12-17 21:54:49,235 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 21:55:52,028 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 21:55:52,029 - INFO - 当前语言设置为: 中文
+2024-12-17 21:55:52,029 - INFO - 搜索参数 - 关键词: ['AI'], 引擎: Bing, 结果数量: 2, 进阶模式: False
+2024-12-17 21:55:52,029 - INFO - CLIWorker 开始执行搜索任务，关键词: ['AI'], 结果数量: 2, 搜索引擎: Bing
+2024-12-17 21:55:52,029 - INFO - CLIWorker 已启动。
+2024-12-17 21:55:52,029 - INFO - 发送请求到Bing URL: https://www.bing.com/search?q=AI&count=2
+2024-12-17 21:55:52,029 - INFO - CLIWorker 开始执行搜索任务，关键词: ['AI'], 结果数量: 2, 搜索引擎: Bing
+2024-12-17 21:55:52,029 - INFO - 发送请求到Bing URL: https://www.bing.com/search?q=AI&count=2
+2024-12-17 21:55:53,180 - INFO - 检测到编码: utf_8，Bing搜索结果页面URL: https://www.bing.com/search?q=AI&count=2
+2024-12-17 21:55:53,206 - INFO - 检测到编码: utf_8，Bing搜索结果页面URL: https://www.bing.com/search?q=AI&count=2
+2024-12-17 21:55:53,217 - INFO - 解析出 2 个Bing搜索结果。
+2024-12-17 21:55:53,224 - INFO - 解析出 2 个Bing搜索结果。
+2024-12-17 21:55:53,326 - ERROR - 获取页面内容失败 (https://www.zhihu.com/question/639854237): 403 Client Error: Forbidden for url: https://www.zhihu.com/question/639854237
+2024-12-17 21:55:53,326 - ERROR - 获取页面内容失败 (https://www.zhihu.com/question/618289440): 403 Client Error: Forbidden for url: https://www.zhihu.com/question/618289440
+2024-12-17 21:55:53,327 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:55:53,328 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:55:53,328 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 21:55:53,328 - ERROR - 搜索过程中发生错误: cannot unpack non-iterable NoneType object
+2024-12-17 21:55:53,334 - ERROR - 获取页面内容失败 (https://www.zhihu.com/question/639854237): 403 Client Error: Forbidden for url: https://www.zhihu.com/question/639854237
+2024-12-17 21:55:53,337 - ERROR - 获取页面内容失败 (https://www.zhihu.com/question/618289440): 403 Client Error: Forbidden for url: https://www.zhihu.com/question/618289440
+2024-12-17 21:55:53,338 - INFO - 搜索任务已被用户中断，停止后续操作。
+2024-12-17 21:56:10,307 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 21:56:10,307 - INFO - 当前语言设置为: 中文
+2024-12-17 21:56:10,307 - INFO - 搜索参数 - 关键词: ['AI'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 21:56:10,307 - INFO - CLIWorker 开始执行搜索任务，关键词: ['AI'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 21:56:10,307 - INFO - CLIWorker 已启动。
+2024-12-17 21:56:10,307 - INFO - 发送请求到Google URL: https://www.google.com/search?q=AI&num=2
+2024-12-17 21:56:10,308 - INFO - CLIWorker 开始执行搜索任务，关键词: ['AI'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 21:56:10,308 - INFO - 发送请求到Google URL: https://www.google.com/search?q=AI&num=2
+2024-12-17 21:56:11,658 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=AI&num=2
+2024-12-17 21:56:11,685 - INFO - 解析出 1 个Google搜索结果。
+2024-12-17 21:56:12,180 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=AI&num=2
+2024-12-17 21:56:12,205 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 21:56:13,858 - INFO - 检测到编码: utf_8，URL: https://www.instagram.com/officialai/?hl=ja
+2024-12-17 21:56:14,139 - INFO - 检测到编码: utf_8，URL: https://aimusic.tv/
+2024-12-17 21:56:14,173 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:56:14,173 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:56:14,173 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 21:56:14,173 - ERROR - 搜索过程中发生错误: cannot unpack non-iterable NoneType object
+2024-12-17 21:56:14,318 - INFO - 检测到编码: utf_8，URL: https://aimusic.tv/
+2024-12-17 21:56:14,366 - INFO - 搜索任务已被用户中断，停止后续操作。
+2024-12-17 21:57:11,900 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 21:57:11,900 - INFO - 当前语言设置为: 中文
+2024-12-17 21:57:11,900 - INFO - 搜索参数 - 关键词: ['Linux.do what is'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 21:57:11,900 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linux.do what is'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 21:57:11,901 - INFO - CLIWorker 已启动。
+2024-12-17 21:57:11,901 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linux.do+what+is&num=2
+2024-12-17 21:57:11,901 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linux.do what is'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 21:57:11,901 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linux.do+what+is&num=2
+2024-12-17 21:57:13,225 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linux.do+what+is&num=2
+2024-12-17 21:57:13,253 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 21:57:13,423 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linux.do+what+is&num=2
+2024-12-17 21:57:13,454 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 21:57:14,934 - INFO - 检测到编码: utf_8，URL: https://qiita.com/tamcchi103/items/5e86524d8fb8597cdb8d
+2024-12-17 21:57:14,934 - INFO - 检测到编码: utf_8，URL: https://qiita.com/tamcchi103/items/5e86524d8fb8597cdb8d
+2024-12-17 21:57:15,825 - INFO - 检测到编码: utf_8，URL: https://www.sejuku.net/blog/53781
+2024-12-17 21:57:15,868 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:57:15,869 - INFO - 检测到编码: utf_8，URL: https://www.sejuku.net/blog/53781
+2024-12-17 21:57:15,895 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:57:15,901 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 21:57:15,901 - INFO - 搜索任务已被用户中断，停止后续操作。
+2024-12-17 21:57:15,901 - ERROR - 搜索过程中发生错误: cannot unpack non-iterable NoneType object
+2024-12-17 21:57:31,880 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 21:57:31,881 - INFO - 当前语言设置为: 中文
+2024-12-17 21:57:31,881 - INFO - 搜索参数 - 关键词: ['Linuxdo what is'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 21:57:31,881 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo what is'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 21:57:31,881 - INFO - CLIWorker 已启动。
+2024-12-17 21:57:31,881 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 21:57:31,881 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo what is'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 21:57:31,881 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 21:57:33,191 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 21:57:33,212 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 21:57:33,227 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 21:57:33,240 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 21:57:34,954 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/88349
+2024-12-17 21:57:35,020 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/88349
+2024-12-17 21:57:35,604 - INFO - 检测到编码: utf_8，URL: https://www.igdux.com/linuxdo
+2024-12-17 21:57:35,632 - INFO - 检测到编码: utf_8，URL: https://www.igdux.com/linuxdo
+2024-12-17 21:57:35,649 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:57:35,649 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:57:35,649 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:57:35,649 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 21:57:35,649 - ERROR - 搜索过程中发生错误: cannot unpack non-iterable NoneType object
+2024-12-17 21:57:35,649 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 21:57:35,649 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:12:45,411 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:12:45,411 - INFO - 当前语言设置为: 中文
+2024-12-17 22:12:45,411 - INFO - 搜索参数 - 关键词: ['Linuxdo what is'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:12:45,411 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo what is'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:12:45,411 - INFO - CLIWorker 已启动。
+2024-12-17 22:12:45,412 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 22:12:45,412 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo what is'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:12:45,412 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 22:12:46,697 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 22:12:46,710 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:12:46,722 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 22:12:46,731 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:12:48,090 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/88349
+2024-12-17 22:12:48,171 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/88349
+2024-12-17 22:12:48,260 - INFO - 检测到编码: utf_8，URL: https://www.igdux.com/linuxdo
+2024-12-17 22:12:48,274 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:12:48,276 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:12:48,276 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:12:48,288 - INFO - 检测到编码: utf_8，URL: https://www.igdux.com/linuxdo
+2024-12-17 22:12:48,298 - INFO - 搜索任务已被用户中断，停止后续操作。
+2024-12-17 22:12:48,298 - ERROR - 搜索过程中发生错误: cannot unpack non-iterable NoneType object
+2024-12-17 22:13:25,238 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:13:25,238 - INFO - 当前语言设置为: 中文
+2024-12-17 22:13:25,238 - INFO - 搜索参数 - 关键词: ['Linuxdo what is'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:13:25,238 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo what is'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:13:25,238 - INFO - CLIWorker 已启动。
+2024-12-17 22:13:25,238 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 22:13:25,239 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo what is'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:13:25,239 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 22:13:26,433 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 22:13:26,453 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:13:26,468 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 22:13:26,480 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:13:27,738 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/88349
+2024-12-17 22:13:27,789 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/88349
+2024-12-17 22:13:28,032 - INFO - 检测到编码: utf_8，URL: https://www.igdux.com/linuxdo
+2024-12-17 22:13:28,055 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:13:28,055 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:13:28,055 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:13:28,235 - INFO - 检测到编码: utf_8，URL: https://www.igdux.com/linuxdo
+2024-12-17 22:13:28,260 - INFO - 搜索任务已被用户中断，停止后续操作。
+2024-12-17 22:13:28,260 - ERROR - 搜索过程中发生错误: cannot unpack non-iterable NoneType object
+2024-12-17 22:17:35,637 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:17:35,637 - INFO - 当前语言设置为: 中文
+2024-12-17 22:17:35,637 - INFO - 搜索参数 - 关键词: ['Linuxdo what is'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:17:35,637 - ERROR - 搜索过程中发生错误: 'CLIWorker' object has no attribute '_lock'
+2024-12-17 22:17:50,251 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:17:50,251 - INFO - 当前语言设置为: 中文
+2024-12-17 22:17:50,251 - INFO - 搜索参数 - 关键词: ['Linuxdo what is'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:17:50,251 - ERROR - 搜索过程中发生错误: 'CLIWorker' object has no attribute '_lock'
+2024-12-17 22:18:04,999 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:18:04,999 - INFO - 当前语言设置为: 中文
+2024-12-17 22:18:04,999 - INFO - 搜索参数 - 关键词: ['Linuxdo what is'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:18:04,999 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo what is'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:18:04,999 - INFO - CLIWorker 已启动。
+2024-12-17 22:18:04,999 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 22:18:06,355 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo+what+is&num=2
+2024-12-17 22:18:06,375 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:18:07,984 - INFO - 检测到编码: utf_8，URL: https://www.igdux.com/linuxdo
+2024-12-17 22:18:08,267 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/88349
+2024-12-17 22:18:08,310 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:18:08,312 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:18:08,312 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:18:08,312 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:19:19,073 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:19:19,073 - INFO - 当前语言设置为: 中文
+2024-12-17 22:19:19,074 - INFO - 搜索参数 - 关键词: ['Linuxdo  who is ceo'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:19:19,074 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo  who is ceo'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:19:19,074 - INFO - CLIWorker 已启动。
+2024-12-17 22:19:19,074 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo++who+is+ceo&num=2
+2024-12-17 22:19:20,375 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo++who+is+ceo&num=2
+2024-12-17 22:19:20,403 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:19:23,228 - INFO - 检测到编码: utf_8，URL: https://www.linuxfoundation.org/about/leadership
+2024-12-17 22:19:24,419 - INFO - 检测到编码: utf_8，URL: https://www.linuxfoundation.jp/about/leadership/
+2024-12-17 22:19:24,464 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:19:24,465 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:19:24,465 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:19:24,465 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:22:09,431 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:22:09,431 - INFO - 当前语言设置为: English
+2024-12-17 22:22:09,431 - INFO - 搜索参数 - 关键词: ['Linuxdo论坛是谁创建的'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:22:09,431 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo论坛是谁创建的'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:22:09,432 - INFO - CLIWorker 已启动。
+2024-12-17 22:22:09,432 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo%E8%AE%BA%E5%9D%9B%E6%98%AF%E8%B0%81%E5%88%9B%E5%BB%BA%E7%9A%84&num=2
+2024-12-17 22:22:10,676 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo%E8%AE%BA%E5%9D%9B%E6%98%AF%E8%B0%81%E5%88%9B%E5%BB%BA%E7%9A%84&num=2
+2024-12-17 22:22:10,697 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:22:12,005 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/27284
+2024-12-17 22:22:12,266 - INFO - 检测到编码: utf_8，URL: https://www.igdux.com/linuxdo?locale=zh
+2024-12-17 22:22:12,287 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:22:12,289 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:22:12,289 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:22:12,289 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:24:12,116 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:24:12,116 - INFO - 当前语言设置为: English
+2024-12-17 22:24:12,116 - INFO - 搜索参数 - 关键词: ['Linuxdo论坛今天有什么热门话题'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:24:12,116 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo论坛今天有什么热门话题'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:24:12,116 - INFO - CLIWorker 已启动。
+2024-12-17 22:24:12,116 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo%E8%AE%BA%E5%9D%9B%E4%BB%8A%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E7%83%AD%E9%97%A8%E8%AF%9D%E9%A2%98&num=2
+2024-12-17 22:24:13,799 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo%E8%AE%BA%E5%9D%9B%E4%BB%8A%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E7%83%AD%E9%97%A8%E8%AF%9D%E9%A2%98&num=2
+2024-12-17 22:24:13,819 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:24:15,941 - INFO - 检测到编码: utf_8，URL: https://t.me/s/linux_do_channel?before=77426
+2024-12-17 22:24:16,011 - INFO - 检测到编码: utf_8，URL: https://t.me/s/linux_do_channel?before=52369
+2024-12-17 22:24:16,037 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:24:16,038 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:24:16,038 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:24:16,038 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:25:01,503 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:25:01,504 - INFO - 当前语言设置为: English
+2024-12-17 22:25:01,504 - INFO - 搜索参数 - 关键词: ['Linuxdo升级为3级的条件是什么'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:25:01,504 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo升级为3级的条件是什么'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:25:01,504 - INFO - CLIWorker 已启动。
+2024-12-17 22:25:01,504 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo%E5%8D%87%E7%BA%A7%E4%B8%BA3%E7%BA%A7%E7%9A%84%E6%9D%A1%E4%BB%B6%E6%98%AF%E4%BB%80%E4%B9%88&num=2
+2024-12-17 22:25:03,152 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo%E5%8D%87%E7%BA%A7%E4%B8%BA3%E7%BA%A7%E7%9A%84%E6%9D%A1%E4%BB%B6%E6%98%AF%E4%BB%80%E4%B9%88&num=2
+2024-12-17 22:25:03,174 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:25:04,306 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/53942
+2024-12-17 22:25:04,531 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/23574
+2024-12-17 22:25:04,587 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:25:04,588 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:25:04,588 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:25:04,588 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:26:27,386 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:26:27,387 - INFO - 当前语言设置为: English
+2024-12-17 22:26:27,387 - INFO - 搜索参数 - 关键词: ['Linuxdo如何优雅的升级'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:26:27,387 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo如何优雅的升级'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:26:27,387 - INFO - CLIWorker 已启动。
+2024-12-17 22:26:27,387 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E5%8D%87%E7%BA%A7&num=2
+2024-12-17 22:26:28,605 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E5%8D%87%E7%BA%A7&num=2
+2024-12-17 22:26:28,625 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:26:29,845 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/23574?page=71
+2024-12-17 22:26:29,970 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/23574
+2024-12-17 22:26:30,004 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:26:30,005 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:26:30,005 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:26:30,005 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:31:37,625 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:31:37,625 - INFO - 当前语言设置为: English
+2024-12-17 22:31:37,625 - INFO - 搜索参数 - 关键词: ['Linuxdo论坛有什么好玩的项目'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:31:37,625 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo论坛有什么好玩的项目'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:31:37,626 - INFO - CLIWorker 已启动。
+2024-12-17 22:31:37,626 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo%E8%AE%BA%E5%9D%9B%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%8E%A9%E7%9A%84%E9%A1%B9%E7%9B%AE&num=2
+2024-12-17 22:31:38,777 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo%E8%AE%BA%E5%9D%9B%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%8E%A9%E7%9A%84%E9%A1%B9%E7%9B%AE&num=2
+2024-12-17 22:31:38,799 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:31:40,244 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/15325
+2024-12-17 22:31:40,348 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/27478
+2024-12-17 22:31:40,382 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:31:40,383 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:31:40,383 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:31:40,383 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:32:36,640 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:32:36,641 - INFO - 当前语言设置为: English
+2024-12-17 22:32:36,641 - INFO - 搜索参数 - 关键词: ['Linuxdo论坛现在还有claude拼车吗'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:32:36,641 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo论坛现在还有claude拼车吗'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:32:36,641 - INFO - CLIWorker 已启动。
+2024-12-17 22:32:36,641 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo%E8%AE%BA%E5%9D%9B%E7%8E%B0%E5%9C%A8%E8%BF%98%E6%9C%89claude%E6%8B%BC%E8%BD%A6%E5%90%97&num=2
+2024-12-17 22:32:38,151 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo%E8%AE%BA%E5%9D%9B%E7%8E%B0%E5%9C%A8%E8%BF%98%E6%9C%89claude%E6%8B%BC%E8%BD%A6%E5%90%97&num=2
+2024-12-17 22:32:38,171 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:32:39,451 - INFO - 检测到编码: utf_8，URL: https://linux.do/tag/%E7%BA%AF%E6%B0%B4?match_all_tags=true&page=6&tags%5B%5D=%E7%BA%AF%E6%B0%B4
+2024-12-17 22:32:39,821 - INFO - 检测到编码: utf_8，URL: https://t.me/s/linux_do_channel?before=73827
+2024-12-17 22:32:39,872 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:32:39,872 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:32:39,872 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:32:39,872 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:33:28,655 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:33:28,656 - INFO - 当前语言设置为: English
+2024-12-17 22:33:28,656 - INFO - 搜索参数 - 关键词: ['Linuxdo论坛现在claude充值的市场价是多少'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:33:28,656 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo论坛现在claude充值的市场价是多少'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:33:28,656 - INFO - CLIWorker 已启动。
+2024-12-17 22:33:28,656 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo%E8%AE%BA%E5%9D%9B%E7%8E%B0%E5%9C%A8claude%E5%85%85%E5%80%BC%E7%9A%84%E5%B8%82%E5%9C%BA%E4%BB%B7%E6%98%AF%E5%A4%9A%E5%B0%91&num=2
+2024-12-17 22:33:30,232 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo%E8%AE%BA%E5%9D%9B%E7%8E%B0%E5%9C%A8claude%E5%85%85%E5%80%BC%E7%9A%84%E5%B8%82%E5%9C%BA%E4%BB%B7%E6%98%AF%E5%A4%9A%E5%B0%91&num=2
+2024-12-17 22:33:30,252 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:33:32,048 - INFO - 检测到编码: utf_8，URL: https://t.me/s/linux_do_channel?before=70685
+2024-12-17 22:33:32,254 - INFO - 检测到编码: utf_8，URL: https://t.me/s/linux_do_channel?before=73419
+2024-12-17 22:33:32,297 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:33:32,298 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:33:32,298 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:33:32,298 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:34:27,548 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:34:27,548 - INFO - 当前语言设置为: English
+2024-12-17 22:34:27,548 - INFO - 搜索参数 - 关键词: ['Linuxdo论坛最近有什么github项目分享'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:34:27,548 - INFO - CLIWorker 开始执行搜索任务，关键词: ['Linuxdo论坛最近有什么github项目分享'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:34:27,549 - INFO - CLIWorker 已启动。
+2024-12-17 22:34:27,549 - INFO - 发送请求到Google URL: https://www.google.com/search?q=Linuxdo%E8%AE%BA%E5%9D%9B%E6%9C%80%E8%BF%91%E6%9C%89%E4%BB%80%E4%B9%88github%E9%A1%B9%E7%9B%AE%E5%88%86%E4%BA%AB&num=2
+2024-12-17 22:34:28,793 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=Linuxdo%E8%AE%BA%E5%9D%9B%E6%9C%80%E8%BF%91%E6%9C%89%E4%BB%80%E4%B9%88github%E9%A1%B9%E7%9B%AE%E5%88%86%E4%BA%AB&num=2
+2024-12-17 22:34:28,817 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:34:30,608 - INFO - 检测到编码: utf_8，URL: https://linux.do/
+2024-12-17 22:34:35,132 - INFO - 检测到编码: utf_8，URL: https://github.com/laochai23333/-
+2024-12-17 22:34:35,228 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:34:35,229 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:34:35,229 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:34:35,230 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:35:53,993 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:35:53,993 - INFO - 当前语言设置为: English
+2024-12-17 22:35:53,993 - INFO - 搜索参数 - 关键词: ['如何实现cursor2api'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:35:53,993 - INFO - CLIWorker 开始执行搜索任务，关键词: ['如何实现cursor2api'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:35:53,993 - INFO - CLIWorker 已启动。
+2024-12-17 22:35:53,993 - INFO - 发送请求到Google URL: https://www.google.com/search?q=%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0cursor2api&num=2
+2024-12-17 22:35:55,225 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0cursor2api&num=2
+2024-12-17 22:35:55,245 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:35:56,991 - INFO - 检测到编码: utf_8，URL: https://t.me/s/linux_do_channel?before=77284
+2024-12-17 22:35:57,055 - INFO - 检测到编码: utf_8，URL: https://t.me/s/linux_do_channel?before=66791
+2024-12-17 22:35:57,082 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:35:57,082 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:35:57,082 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:35:57,082 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:37:03,207 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:37:03,207 - INFO - 当前语言设置为: English
+2024-12-17 22:37:03,208 - INFO - 搜索参数 - 关键词: ['cursor2api'], 引擎: Google, 结果数量: 2, 进阶模式: False
+2024-12-17 22:37:03,208 - INFO - CLIWorker 开始执行搜索任务，关键词: ['cursor2api'], 结果数量: 2, 搜索引擎: Google
+2024-12-17 22:37:03,208 - INFO - CLIWorker 已启动。
+2024-12-17 22:37:03,208 - INFO - 发送请求到Google URL: https://www.google.com/search?q=cursor2api&num=2
+2024-12-17 22:37:04,427 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=cursor2api&num=2
+2024-12-17 22:37:04,449 - INFO - 解析出 2 个Google搜索结果。
+2024-12-17 22:37:05,755 - INFO - 检测到编码: utf_8，URL: https://huggingface.co/spaces/tang-x/cursor2api/blame/2c270e2d469d462146b2a9dad25af45f91b59903/README.md
+2024-12-17 22:37:05,826 - INFO - 检测到编码: utf_8，URL: https://huggingface.co/spaces/tang-x/cursor2api/commits/56f0a82f96f2e25eba71c348a90043b6c2fc5f6d
+2024-12-17 22:37:05,848 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:37:05,848 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:37:05,848 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:37:05,848 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:38:49,384 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:38:49,385 - INFO - 当前语言设置为: English
+2024-12-17 22:38:49,385 - INFO - 搜索参数 - 关键词: ['cursor2api'], 引擎: Google, 结果数量: 5, 进阶模式: False
+2024-12-17 22:38:49,385 - INFO - CLIWorker 开始执行搜索任务，关键词: ['cursor2api'], 结果数量: 5, 搜索引擎: Google
+2024-12-17 22:38:49,385 - INFO - CLIWorker 已启动。
+2024-12-17 22:38:49,385 - INFO - 发送请求到Google URL: https://www.google.com/search?q=cursor2api&num=5
+2024-12-17 22:38:50,711 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=cursor2api&num=5
+2024-12-17 22:38:50,740 - INFO - 解析出 4 个Google搜索结果。
+2024-12-17 22:38:51,847 - INFO - 检测到编码: utf_8，URL: https://huggingface.co/spaces/tang-x/cursor2api/commits/56f0a82f96f2e25eba71c348a90043b6c2fc5f6d
+2024-12-17 22:38:51,851 - INFO - 检测到编码: utf_8，URL: https://huggingface.co/spaces/tang-x/cursor2api/blame/2c270e2d469d462146b2a9dad25af45f91b59903/README.md
+2024-12-17 22:38:52,323 - INFO - 检测到编码: utf_8，URL: https://t.me/s/linux_do_channel?before=66771
+2024-12-17 22:38:55,105 - INFO - 检测到编码: utf_8，URL: https://coderoad.ru/44390030/
+2024-12-17 22:38:55,126 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:38:55,127 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:38:55,127 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:38:55,127 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:40:43,510 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:40:43,510 - INFO - 当前语言设置为: English
+2024-12-17 22:40:43,510 - INFO - 搜索参数 - 关键词: ['逆向 cursor'], 引擎: Google, 结果数量: 5, 进阶模式: False
+2024-12-17 22:40:43,510 - INFO - CLIWorker 开始执行搜索任务，关键词: ['逆向 cursor'], 结果数量: 5, 搜索引擎: Google
+2024-12-17 22:40:43,511 - INFO - CLIWorker 已启动。
+2024-12-17 22:40:43,511 - INFO - 发送请求到Google URL: https://www.google.com/search?q=%E9%80%86%E5%90%91+cursor&num=5
+2024-12-17 22:40:44,663 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=%E9%80%86%E5%90%91+cursor&num=5
+2024-12-17 22:40:44,690 - INFO - 解析出 5 个Google搜索结果。
+2024-12-17 22:40:46,119 - ERROR - 获取页面内容失败 (https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10255795670): HTTPSConnectionPool(host='detail.chiebukuro.yahoo.co.jp', port=443): Max retries exceeded with url: /qa/question_detail/q10255795670 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))
+2024-12-17 22:40:46,122 - ERROR - 获取页面内容失败 (https://repair.dospara.co.jp/blog/column_mouse_scroll): HTTPSConnectionPool(host='repair.dospara.co.jp', port=443): Max retries exceeded with url: /blog/column_mouse_scroll (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-12-17 22:40:46,653 - INFO - 检测到编码: utf_8，URL: https://www.postgresql.jp/docs/16/plpgsql-cursors.html
+2024-12-17 22:40:46,702 - INFO - 检测到编码: utf_8，URL: https://www.postgresql.jp/docs/9.4/plpgsql-cursors.html
+2024-12-17 22:40:47,214 - INFO - 检测到编码: utf_8，URL: https://www.ibm.com/docs/ja/db2-for-zos/13?topic=cursor-examples-fetching-rows-by-using-cursors
+2024-12-17 22:40:47,218 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:40:47,221 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:40:47,221 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:40:47,221 - INFO - CLIWorker 线程已完成。
+2024-12-17 22:41:03,382 - INFO - 日志记录已设置，输出到控制台和文件: cli_search_app.log
+2024-12-17 22:41:03,382 - INFO - 当前语言设置为: English
+2024-12-17 22:41:03,382 - INFO - 搜索参数 - 关键词: ['逆向cursor2api'], 引擎: Google, 结果数量: 5, 进阶模式: False
+2024-12-17 22:41:03,382 - INFO - CLIWorker 开始执行搜索任务，关键词: ['逆向cursor2api'], 结果数量: 5, 搜索引擎: Google
+2024-12-17 22:41:03,382 - INFO - CLIWorker 已启动。
+2024-12-17 22:41:03,382 - INFO - 发送请求到Google URL: https://www.google.com/search?q=%E9%80%86%E5%90%91cursor2api&num=5
+2024-12-17 22:41:04,850 - INFO - 检测到编码: utf_8，Google搜索结果页面URL: https://www.google.com/search?q=%E9%80%86%E5%90%91cursor2api&num=5
+2024-12-17 22:41:04,879 - INFO - 解析出 5 个Google搜索结果。
+2024-12-17 22:41:05,867 - INFO - 检测到编码: utf_8，URL: https://qiita.com/silane1001/items/c26bc45826de35f150e0
+2024-12-17 22:41:05,931 - INFO - 检测到编码: utf_8，URL: https://linux.do/t/topic/207676
+2024-12-17 22:41:06,370 - INFO - 检测到编码: utf_8，URL: https://cybozu.dev/ja/kintone/tips/development/customize/columns/bulk-get-records-using-cursor-api/
+2024-12-17 22:41:06,990 - INFO - 检测到编码: utf_8，URL: https://developer.mozilla.org/ja/docs/Web/API/IDBCursor/direction
+2024-12-17 22:41:07,074 - INFO - 检测到编码: utf_8，URL: https://recruit.gmo.jp/engineer/jisedai/blog/cursor-is-better-than-github-copilot/
+2024-12-17 22:41:07,091 - INFO - 尝试将搜索结果保存到文件: /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:41:07,091 - INFO - 搜索结果成功保存到 /Users/zhangbaoxing/Downloads/search_results.txt
+2024-12-17 22:41:07,092 - INFO - CLIWorker 搜索任务完成。
+2024-12-17 22:41:07,092 - INFO - CLIWorker 线程已完成。
